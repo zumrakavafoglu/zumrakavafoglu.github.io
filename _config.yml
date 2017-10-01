@@ -8,11 +8,11 @@
 # Site settings
 title: Zümra Kavafoğlu Personal Web Page
 email: zumra.kavafoglu@hacettepe.edu.tr
-description: Automated automation software development 
+description: Zümra Kavafoğlu Personal Web Page
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mileva.com.tr"
-twitter_username: mileva
-github_username:  mileva
+url: "zumrakavafoglu.github.io"
+twitter_username: zumrakavafoglu
+github_username:  zumrakavafoglu
 
 languages: ["en", "tr"]
 exclude_from_localizations: ["assets"]
