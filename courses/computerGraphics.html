@@ -2,11 +2,11 @@
 layout: landing
 ---
 
-{% assign landing-items-sorted = site.computer-graphics | sort: 'order' %}
+{% assign items-sorted = site.computer-graphics | sort: 'order' %}
 
-{% for landing-item in landing-items-sorted %}
+{% for item in items-sorted %}
   
-    {{ landing-item.output }}
+    {{ item.output }}
 
     {% if forloop.last == false %}
     <!-- <hr> -->
