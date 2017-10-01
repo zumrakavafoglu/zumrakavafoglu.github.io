@@ -14,9 +14,6 @@ url: "zumrakavafoglu.github.io"
 twitter_username: zumrakavafoglu
 github_username:  zumrakavafoglu
 
-languages: ["en", "tr"]
-exclude_from_localizations: ["assets"]
-
 # Build settings
 markdown: kramdown
 kramdown:
@@ -28,5 +25,3 @@ collections:
 - landing-items
 - computer-graphics
 
-plugins: 
-  - jekyll-multiple-languages-plugin
