@@ -1,0 +1,21 @@
+{% if page.parallaxImage %}
+<div class="parallax-window" data-parallax="scroll" data-speed=0.6 data-image-src="{{ page.parallaxImage | prepend:site.baseurl_root}}">
+<div style="opacity: 0.3; background-color: rgb(20, 20, 20);"></div>
+{% elsif page.bgColor %}
+<div class="{{page.extraClass}}" id="{{page.divId}}" style="background-color: {{page.bgColor}};">
+{% else %}
+<div class="{{page.extraClass}}" id="{{page.divId}}" style="background-color: rgb(255, 255, 255);">
+{% endif %}
+
+    {% if page.imageVerticalAlign %}
+    <div class="container"  style="padding-{{page.imageVerticalAlign}}: 0px;">
+    {% else %}
+    <div class="container">
+    {% endif %}
+        <div class="row block">         
+            {{ content }}
+        </div>
+        <hr>
+    </div>
+
+</div>

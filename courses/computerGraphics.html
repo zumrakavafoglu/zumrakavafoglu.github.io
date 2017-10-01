@@ -1,0 +1,15 @@
+---
+layout: landing
+---
+
+{% assign landing-items-sorted = site.computer-graphics | sort: 'order' %}
+
+{% for landing-item in landing-items-sorted %}
+  
+    {{ landing-item.output }}
+
+    {% if forloop.last == false %}
+    <!-- <hr> -->
+    {% endif %}
+
+{% endfor %}

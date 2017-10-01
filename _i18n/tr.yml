@@ -1,0 +1,15 @@
+global:
+  more_U: DAHA FAZLA
+  labOto: LabSis Çevre Laboratuvarı Otomasyon Sistemi
+  cevreDanismanlik: Çevre Danışmanlık Otomasyonu
+  tenisOto: TenisLig
+  igui: iGUI
+  slogan: Size özel yazılım çözümleri
+  yazilim: Yazılım A.Ş.
+
+menu:
+  home: ANASAYFA
+  projects: PROJELER
+  courses: DERSLER
+  about: HAKKIMIZDA
+  contact: İLETİŞİM

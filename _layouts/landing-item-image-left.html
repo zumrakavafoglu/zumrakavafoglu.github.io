@@ -1,0 +1,27 @@
+---
+layout: landing-item
+---
+{% if page.imageVerticalAlign %}
+<div class="col align-self-{{page.imageVerticalAlign}}" style={{page.imageContainerStyle}}>
+{% else %}
+<div class="col align-self-center" style={{page.imageContainerStyle}}>
+{% endif %}
+    <img src="{{ page.image | prepend: site.baseurl_root }}" class="landing-image" style={{page.imageStyle}}>
+</div>
+<div class="col align-self-center">
+    {% if page.lightText %}
+    <h3 class="light-text">
+    {% else %}
+    <h3>
+    {% endif %}   
+        {% t page.name %}
+    </h3>
+
+    {% if page.lightText %}
+    <div class="light-text">
+    {% else %}
+    <div class="">
+    {% endif %}
+        {{ content }}
+    </div>
+</div>

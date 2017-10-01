@@ -1,0 +1,14 @@
+global:
+  more_U: MORE
+  labOto: LabSis Environment Laboratory Automation System
+  cevreDanismanlik: Environment Concultancy Automation
+  tenisOto: TenisLig
+  igui: iGUI
+  yazilim: Software Co.
+
+menu:
+  home: Me
+  projects: Projects
+  courses: Courses
+  about: About us
+  contact: Contact
