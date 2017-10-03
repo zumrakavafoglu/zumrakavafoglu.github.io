@@ -1,8 +1,9 @@
 ---
 layout: simple-block
-title: Ders günü ve saati
+title: Time and Location
 order: 2
 ---
+
 <table class="table table-sm">
   <thead class="thead-default">
     <tr>
@@ -14,7 +15,7 @@ order: 2
   </thead>
   <tbody>
 
-    {% assign items-sorted = site.bca611-weeks | sort: 'week' %}
+    {% assign items-sorted = page.col | sort: 'week' %}
         
     {% for item in items-sorted %}
         
