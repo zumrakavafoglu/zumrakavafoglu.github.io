@@ -6,19 +6,19 @@ order: 4
 <br>
 <div class="row">
     <div class="col-md-4 text-center">
-        <img src="/files/bca611-cg/kitap2.jpg" style = "height:200px;"/><br>
+        <img src="/files/bbs515-oop/javaBook1.jpg" style = "height:200px;"/><br>
         <br> 
-        JungHyun Han, <br>
-        3D Graphics for Game Programming,<br> 
-        CRC Press, ISBN-13: 978-1-4398-2738-3<br>
-        <a href="http://media.korea.ac.kr/book">http://media.korea.ac.kr/book</a>
+        C. Thomas Wu, <br>
+        An Introduction to Object Oriented Programming<br> 
+        with Java<br> 
+        McGraw-Hill Education, ISBN-13: 978-0073523309<br>
     </div>
     <div class="col-md-4 text-center">
-        <img src="/files/bca611-cg/webglBook.png" style = "height:200px;"/><br> 
+        <img src="/files/bbs515-oop/javaDeitel.jpg" style = "height:200px;"/><br> 
         <br> 
-        Brian Danchilla, <br>
-        Beginning WebGL for HTML5,<br> 
-        Apress, ISBN-13 978-1-4302-3997-0<br>
+        Paul Deitel, Harvey Deitel, <br>
+        Java How to Program,<br> 
+        Pearson, ISBN-13 978-0134743356<br>
         <a href="http://www.springer.com/br/book/9781430239963">http://www.springer.com/br/book/9781430239963</a>
     </div>
     <div class="col-md-4">
