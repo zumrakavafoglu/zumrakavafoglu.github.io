@@ -1,12 +1,12 @@
 ---
-layout: landing
+layout: default
 ---
 
-{% assign landing-items-sorted = site.landing-items | sort: 'order' %}
+{% assign items-sorted = site.home-blocks | sort: 'order' %}
 
-{% for landing-item in landing-items-sorted %}
+{% for item in items-sorted %}
   
-    {{ landing-item.output }}
+    {{ item.output }}
 
     {% if forloop.last == false %}
     <!-- <hr> -->
