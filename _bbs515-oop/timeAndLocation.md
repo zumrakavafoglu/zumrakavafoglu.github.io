@@ -1,6 +1,6 @@
 ---
 layout: simple-block
-title: Time and Location
+title: Ders günü ve saati
 order: 2
 ---
 <table class="table table-sm">
