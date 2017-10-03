@@ -1,0 +1,15 @@
+---
+layout: landing
+---
+
+{% assign items-sorted = site.object-oriented | sort: 'order' %}
+
+{% for item in items-sorted %}
+  
+    {{ item.output }}
+
+    {% if forloop.last == false %}
+    <!-- <hr> -->
+    {% endif %}
+
+{% endfor %}
