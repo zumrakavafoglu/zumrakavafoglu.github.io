@@ -14,19 +14,19 @@ url: "zumrakavafoglu.github.io"
 twitter_username: zumrakavafoglu
 github_username:  zumrakavafoglu
 
+collections:
+- bca611-weeks
+- bbs515-weeks
+- projects
+- publications
+- news
+- home-blocks
+- bbs515-oop
+- bca611-cg
+
 # Build settings
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
   auto_ids: true
-
-collections:
-- projects
-- publications
-- news
-- home-blocks
-- bbs515-oop
-- bbs515-weeks
-- bca611-cg
-- bca611-weeks

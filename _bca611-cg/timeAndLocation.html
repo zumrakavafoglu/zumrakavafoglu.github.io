@@ -13,10 +13,8 @@ order: 2
     </tr>
   </thead>
   <tbody>
-
-    {% assign items-sorted = site.bca611-weeks | sort: 'week' %}
         
-    {% for item in items-sorted %}
+    {% for item in site.bca611-weeks %}
         
         {{ item.output }}
     
