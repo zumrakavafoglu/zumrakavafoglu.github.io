@@ -1,7 +1,7 @@
 ---
 layout: simple-block
-title: Course Description
+title: Ders Hakkında
 order: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Bu dersin amacı üç boyutlu uygulamaların (özellikle video oyunlarının) üretilmesini sağlayan Bilgisayar Grafiği bileşenlerinin öğretilmesidir. Dersin içeriği, oyun grafiği üretilmesi boyunca ihtiyaç duyulan köşe işleme, rasterizasyon, dokulama, ışıklandırma, gölgelendirme ve animasyon gibi temel aşamalardan oluşmaktadır.  Ders kapsamında öğrenciler bu aşamalarının teorik alt yapısını öğrenecek ve bu altyapıyı kullanarak grafik API’leri ile uygulama geliştirme becerisi kazanacaktır. 
