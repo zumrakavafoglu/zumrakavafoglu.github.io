@@ -22,7 +22,9 @@ kramdown:
   auto_ids: true
 
 collections:
+- projects
+- publications
+- news
 - landing-items
 - computer-graphics
 - object-oriented
-

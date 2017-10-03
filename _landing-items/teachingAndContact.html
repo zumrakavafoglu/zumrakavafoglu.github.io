@@ -5,34 +5,19 @@ order: 1
 <div class="col-lg-4 text-left">    
     <h4><i class="ionicons ion-ios-pulse size-32" style="padding-right: 8px;"></i> News </h4>
     <ul style="margin-bottom: 0px; padding-left: 20px;">
-        <li>
-            BCA152 classroom changed please check your agenda
-            <br>
-            <div class="text-right">
-                <small class="text-muted">02.10.2017</small>
-            </div>
-        </li>
-        <li>
-            Lorem Ipsum passages, and more recently with desktop publishing software like
-            <br>
-            <div class="text-right">
-                <small class="text-muted">01.10.2017</small>
-            </div>
-        </li>
-        <li>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry
-            <br>
-            <div class="text-right">
-                <small class="text-muted">01.10.2017</small>
-            </div>
-        </li>
-        <li>
-            My new website is online! 
-            <br>
-            <div class="text-right">
-                <small class="text-muted">30.09.2017</small>
-            </div>
-        </li>
+        
+        {% assign items-sorted = site.news | sort: 'order' %}
+        
+        {% for item in items-sorted %}
+          
+            {{ item.output }}
+        
+            {% if forloop.last == false %}
+            <!-- <hr> -->
+            {% endif %}
+        
+        {% endfor %}
+
         <div class="text-left">
             <a href="#">Older news...</a>
         </div>
@@ -45,7 +30,7 @@ order: 1
     <div style="font-size:18px;">Fall</div>
     <a href="/courses/computerGraphics.html">BCA150 : Computer Graphics</a>
     <br>
-    <a href="#">BCA152 : Object Oriented Programming</a>
+    <a href="/courses/objectOriented.html">BCA152 : Object Oriented Programming</a>
     <br><br>
     <div style="font-size:18px;">Spring</div>
     <a href="#">BCA150 : Data Structure</a>

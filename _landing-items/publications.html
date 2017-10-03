@@ -2,40 +2,16 @@
 layout: landing-item
 order: 2
 ---
+<h4>Publications</h4>
 
-<!-- 
-<i class="ionicons ion-document-text size-48"></i> -->
-<h4>Publications </h4>
+{% assign items-sorted = site.publications | sort: 'order' %}
 
-<div class="row paper">
-    <div class="col-sm-2 text-center align-self-center">
-        <img src="{{ '/images/paper1.png' | prepend: site.baseurl_root }}" style="width: 180px;"/>
-    </div>
-    <div class="col-sm-10">
-        <strong>Lorem Ipsum is simply dummy</strong>
-        <br>
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s 
-    </div>
-</div>
+{% for item in items-sorted %}
+  
+    {{ item.output }}
 
-<div class="row paper">
-    <div class="col-sm-2 text-center align-self-center">
-        <img src="{{ '/images/paper1.png' | prepend: site.baseurl_root }}" style="width: 180px;"/>
-    </div>
-    <div class="col-sm-10">
-        <strong>Lorem Ipsum is simply dummy</strong>
-        <br>
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s 
-    </div>
-</div>
+    {% if forloop.last == false %}
+    <!-- <hr> -->
+    {% endif %}
 
-<div class="row paper">
-    <div class="col-sm-2 text-center align-self-center">
-        <img src="{{ '/images/paper1.png' | prepend: site.baseurl_root }}" style="width: 180px;"/>
-    </div>
-    <div class="col-sm-10">
-        <strong>Lorem Ipsum is simply dummy</strong>
-        <br>
-        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s 
-    </div>
-</div>
+{% endfor %}
