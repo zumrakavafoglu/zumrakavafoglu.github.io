@@ -1,0 +1,7 @@
+---
+layout: simple-block
+title: Ders günü ve saati
+order: 2
+---
+Pazartesi 13:30 - 16:15  
+Animasyon Laboratuvarı  
