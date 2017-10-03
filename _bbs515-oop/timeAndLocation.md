@@ -1,9 +1,7 @@
 ---
 layout: simple-block
-title: Time and Location
+title: Ders günü ve saati
 order: 2
 ---
-Lab 1: Friday at 10:00-10:45 in Animation Lab  
-Lab 2: Friday at 10:00-10:45 in Animation Lab  
-Lab 3: Friday at 10:00-10:45 in Animation Lab  
-Lab 4: Friday at 10:00-10:45 in Animation Lab  
+Pazartesi 13:30 - 16:15  
+Animasyon Laboratuvarı  

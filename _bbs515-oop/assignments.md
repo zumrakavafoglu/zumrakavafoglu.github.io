@@ -1,7 +1,7 @@
 ---
 layout: simple-block
 title: Assignments
-order: 4
+order: 6
 ---
 
 Students are not expected to have any prior programming experience.
