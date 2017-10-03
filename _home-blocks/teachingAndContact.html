@@ -6,7 +6,7 @@ order: 1
     <h4><i class="ionicons ion-ios-pulse size-32" style="padding-right: 8px;"></i> News </h4>
     <ul style="margin-bottom: 0px; padding-left: 20px;">
         
-        {% assign items-sorted = site.news | sort: 'order' %}
+        {% assign items-sorted = site.news | sort: 'date' | reverse %}
         
         {% for item in items-sorted %}
           
