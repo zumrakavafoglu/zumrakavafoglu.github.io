@@ -17,12 +17,16 @@ github_username:  zumrakavafoglu
 collections:
 - bca611-weeks
 - bbs515-weeks
+- mtk467-weeks
+- mtk467-announcements
 - projects
 - publications
 - news
 - home-blocks
 - bbs515-oop
 - bca611-cg
+- mtk467-oop
+
 
 # Build settings
 markdown: kramdown

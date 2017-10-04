@@ -1,12 +1,13 @@
 ---
 layout: simple-block
-title: Projects
-order: 4
+title: Duyurular
+order: 1
 ---
-{% assign items-sorted = site.projects | sort: 'order' %}
 
+{% assign items-sorted = site.mtk467-announcements | sort: 'date' | reverse %}
+        
 {% for item in items-sorted %}
-  
+    
     {{ item.output }}
 
     {% if forloop.last == false %}
@@ -14,3 +15,4 @@ order: 4
     {% endif %}
 
 {% endfor %}
+

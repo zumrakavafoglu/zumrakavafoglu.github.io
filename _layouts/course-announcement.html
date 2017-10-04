@@ -1,0 +1,4 @@
+<li>
+    {{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}
+    <small class="text-muted" style="padding-left: 15px;"> ( {{ page.date | date: "%d.%m.%Y" }} )</small>
+</li>

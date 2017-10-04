@@ -14,7 +14,7 @@ order: 6
   </thead>
   <tbody>
 
-    {% assign items-sorted = site.bbs515-weeks | sort: 'week' %}
+    {% assign items-sorted = site.bca611-weeks | sort: 'week' %}
         
     {% for item in items-sorted %}
         

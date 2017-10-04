@@ -1,7 +1,8 @@
 ---
 layout: week
 week: 2
-day: 26 Ocak
-topic: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-notes: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+day: 02/10/17
+topic: Java'nın temelleri
 ---
+[slaytlar](../files/bbs515-oop/lecture2/NYP-Ders2.pdf)  
+[kodlar](../files/bbs515-oop/lecture2/Ders2Kodlar.zip)

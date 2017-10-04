@@ -1,7 +1,10 @@
 ---
 layout: week
 week: 2
-day: 26 Ocak
-topic: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-notes: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+day: 02/10/17
+topic: Poligonal Mesh Model, WebGL'e giriş, WebGL ile mesh çizdirme
 ---
+[slaytlar](../files/bca611-cg/lecture2/cg-ders2.pdf)  
+[slaytlar(WebGL)](../files/bca611-cg/lecture2/cg-webgl1.pdf)    
+[kodlar](../files/bca611-cg/lecture2/ders2Kodlar.zip)  
+WebGL demoları <http://www.ro.me/tech/>
