@@ -2,7 +2,7 @@
 layout: project
 order: 5
 title: Simple Vertical Human Climbing Control with End-effector State Machines
-image: /images/svhcc.png
+image: /images/svhcc2.png
 ---
 Zümra Kavafoğlu, Hacer İlhan, Ersan Kavafoğlu, Haşmet Gürçay, Tolga Çapın  
 Proceedings of EURASIA GRAPHICS 2014  

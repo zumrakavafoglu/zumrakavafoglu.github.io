@@ -84,3 +84,11 @@ html,body {
 .padding-top-15{
     padding-top: 15px;
 }
+
+.linkedin-btn{
+    color: #999999
+}
+
+.linkedin-btn:hover{
+    color: #0077b5
+}

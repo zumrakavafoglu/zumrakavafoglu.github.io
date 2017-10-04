@@ -6,4 +6,4 @@ image: /images/rsc.png
 ---
 Zümra Kavafoğlu, Ersan Kavafoğlu, Arjan Egges  
  Computer Animation and Virtual Worlds 2017    
-[doi:10.1007/s00371-016-1338-5](https://doi.org/10.1007/s00371-016-1338-5)
+[doi:10.1002/cav.1746](https://doi.org/10.1002/cav.1746)

@@ -4,15 +4,19 @@ title: Duyurular
 order: 1
 ---
 
-{% assign items-sorted = site.mtk467-announcements | sort: 'date' | reverse %}
+<ul style="list-style-type: circle;">
+
+    {% assign items-sorted = site.mtk467-announcements | sort: 'date' | reverse %}
+            
+    {% for item in items-sorted %}
         
-{% for item in items-sorted %}
-    
-    {{ item.output }}
+        {{ item.output }}
 
-    {% if forloop.last == false %}
-    <!-- <hr> -->
-    {% endif %}
+        {% if forloop.last == false %}
+        <!-- <hr> -->
+        {% endif %}
 
-{% endfor %}
+    {% endfor %}
+
+</ul>
 
