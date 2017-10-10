@@ -8,4 +8,4 @@ order: 5
 - 1 arasınav (%30)
 - Final (%40)
   
-Ödevlerinizle ilgili fikir alışverişinde bulunabilir, web kaynaklarından araştırma yapabilirsiniz. Ancak projenin kodu tamamen size ait olmalıdır. Aksi takdirde o projeden hiç not alamazsınız. Derslere düzenli katılım beklenmektedir.
+Ödevlerinizin kodu tamamen size ait olmalıdır. Aksi takdirde o ödevden hiç not alamazsınız. Derslere düzenli katılım beklenmektedir.
