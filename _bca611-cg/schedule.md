@@ -10,6 +10,7 @@ order: 6
       <th style="min-width:100px;">Tarih</th>
       <th>Konu</th>
       <th>Materyaller</th>
+      <th>Ödevler</th>
     </tr>
   </thead>
   <tbody>
