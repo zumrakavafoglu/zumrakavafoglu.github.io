@@ -8,3 +8,4 @@ homework: |
 ---
 [slaytlar](../files/mtk467-oop/week5/NYP-Hafta5.pdf)  
 [kodlar](../files/mtk467-oop/week5/Hafta5Kodlar.zip)  
+[lab Soruları](../files/mtk467-oop/week5/lab4.pdf)
