@@ -2,7 +2,7 @@
 layout: week
 week: 4
 day: 19/10/17
-topic: Kontrol Yapıları ve Metodlar
+topic: Kontrol Yapıları ve Metotlar
 ---
 [slaytlar (Döngüler)](../files/mtk467-oop/week4/Donguler.pdf)  
 [kodlar (Döngüler)](../files/mtk467-oop/week4/kodlar-donguler.zip)  
