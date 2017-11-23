@@ -8,4 +8,5 @@ homework: |
 ---
 [slaytlar](../files/mtk467-oop/week9/NYP-Hafta9.pdf)  
 [kodlar](../files/mtk467-oop/week9/Hafta9Kodlar.zip)  
-[lab Soruları](../files/mtk467-oop/week9/lab9.pdf)
+[lab Soruları](../files/mtk467-oop/week9/lab9.pdf)  
+[lab Kodlar](../files/mtk467-oop/week9/lab9-kodlar.zip) 
