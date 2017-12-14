@@ -9,3 +9,4 @@ homework: |
 [slaytlar](../files/mtk467-oop/week12/NYPHafta12.pdf)  
 [kodlar](../files/mtk467-oop/week12/Hafta12Kodlar.zip)  
 [lab soruları](../files/mtk467-oop/week12/hafta12-lab.pdf)  
+[lab kodları](../files/mtk467-oop/week12/hafta12labKodlar.zip)
