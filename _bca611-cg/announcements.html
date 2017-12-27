@@ -1,0 +1,22 @@
+---
+layout: simple-block
+title: Duyurular
+order: 1
+---
+
+<ul style="list-style-type: circle;">
+
+    {% assign items-sorted = site.bca611-announcements | sort: 'date' | reverse %}
+            
+    {% for item in items-sorted %}
+        
+        {{ item.output }}
+
+        {% if forloop.last == false %}
+        <!-- <hr> -->
+        {% endif %}
+
+    {% endfor %}
+
+</ul>
+
