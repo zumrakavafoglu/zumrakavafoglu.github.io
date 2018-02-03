@@ -1,6 +1,6 @@
 ---
 layout: week
 week: 8
-day: 13/11/17
+day: 04/04/18
 topic: Ara Sınav
 ---
