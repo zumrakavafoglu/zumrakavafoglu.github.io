@@ -2,6 +2,6 @@
 layout: week
 week: 1
 day: 14/02/18
-topic: Ders tanıtımı, Java ve diğer programlama dillerinin tanıtımı
+topic: Ders tanıtımı, Java ve diğer programlama dilleri, Java ile ilk program
 ---
-[//]: #([slaytlar](../files/bbs515-oop/lecture1/NYP-Ders1.pdf))
+[slaytlar](../files/bbs515-oop/BBS515-Ders1.pdf)
