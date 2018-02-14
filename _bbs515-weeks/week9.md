@@ -2,7 +2,7 @@
 layout: week
 week: 9
 day: 11/04/18
-topic: Sınıflar - Kalıtım - String Sınıfı
+//topic: Sınıflar - Kalıtım - String Sınıfı
 
 ---
 <!---

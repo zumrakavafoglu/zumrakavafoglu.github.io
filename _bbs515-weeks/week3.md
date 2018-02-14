@@ -2,7 +2,7 @@
 layout: week
 week: 3
 day: 28/02/18
-topic: Kontrol Yapıları
+//topic: Kontrol Yapıları
 ---
 <!---
 [slaytlar](../files/bbs515-oop/lecture3/NYP-Ders3.pdf)  

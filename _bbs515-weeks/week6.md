@@ -2,7 +2,7 @@
 layout: week
 week: 6
 day: 21/03/18
-topic: Sıralama ve Arama Algoritmaları - Çok boyutlu diziler - Sınıflar ve Nesneler
+//topic: Sıralama ve Arama Algoritmaları - Çok boyutlu diziler - Sınıflar ve Nesneler
 ---
 <!---
 [slaytlar(Diziler)](../files/bbs515-oop/lecture6/NYP-Ders6-arrays.pdf)  

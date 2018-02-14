@@ -2,7 +2,7 @@
 layout: week
 week: 7
 day: 28/03/18
-topic: Sınıflar ve Nesneler 2 - Soru çözümü
+//topic: Sınıflar ve Nesneler 2 - Soru çözümü
 ---
 <!---
 [yeni alıştırmalar](../files/bbs515-oop/lecture7/midterm-exercises.pdf)  
