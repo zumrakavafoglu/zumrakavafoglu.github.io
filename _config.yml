@@ -17,10 +17,12 @@ github_username:  zumrakavafoglu
 collections:
 - bca611-weeks
 - bbs515-weeks
-- bbs515-announcements
 - mtk467-weeks
+- bca614-weeks
+- bbs515-announcements
 - mtk467-announcements
 - bca611-announcements
+- bca614-announcements
 - projects
 - publications
 - news
@@ -28,6 +30,7 @@ collections:
 - bbs515-oop
 - bca611-cg
 - mtk467-oop
+- bca614-ca2
 
 
 # Build settings
