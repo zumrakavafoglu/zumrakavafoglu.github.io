@@ -1,0 +1,12 @@
+---
+layout: default
+title: Bilgisayar Animasyonu 2
+---
+
+{% assign items-sorted = site.bca605-ai | sort: 'order' %}
+
+{% for item in items-sorted %}
+  
+    {{ item.output }}
+
+{% endfor %}

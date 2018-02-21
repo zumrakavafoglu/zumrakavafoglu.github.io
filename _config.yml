@@ -19,10 +19,12 @@ collections:
 - bbs515-weeks
 - mtk467-weeks
 - bca614-weeks
+- bca605-weeks
 - bbs515-announcements
 - mtk467-announcements
 - bca611-announcements
 - bca614-announcements
+- bca605-announcements
 - projects
 - publications
 - news
@@ -31,6 +33,8 @@ collections:
 - bca611-cg
 - mtk467-oop
 - bca614-ca2
+- bca605-ai
+
 
 
 # Build settings
