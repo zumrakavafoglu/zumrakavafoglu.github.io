@@ -2,6 +2,8 @@
 layout: week
 week: 9
 day: 11/04/18
+homework: |
+    Ödev 2
 //topic: Sınıflar - Kalıtım - String Sınıfı
 
 ---

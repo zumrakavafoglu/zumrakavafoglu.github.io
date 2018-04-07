@@ -2,6 +2,8 @@
 layout: week
 week: 11
 day: 25/04/18
+homework: |
+    Ödev 2 teslim
 //topic: Polimorfizm, Soyut Sınıflar, Arayüzler
 ---
 <!---
