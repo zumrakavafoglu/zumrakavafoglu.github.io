@@ -3,9 +3,12 @@ layout: simple-block
 order: 6
 title: Thesis Supervised
 ---
-* __Thesis1__ 
-Our paper "Skill Learning Based Catching Motion Control" with Gökçen Çimen, Ersan Kavafoglu, Tolga Çapın and Haşmet Gürçay has been awarded as the best paper in CASA 2015. 
+* __Artificially intelligent players for PvP in MMORPGs__ 
+Tarık Karşı, November 2020, Hacettepe University, Institute of Informatics, Computer Graphics Department
 
-* __Thesis2__
-Research fellowship from TÜBİTAK for 6 months between December 2014 and June 2015 to be used for performing research at Utrecht University, Department of Information and Computing Sciences.
+* __Physical Hand Animation with Machine Learning__
+Tarık Cantürk, July 2020, Hacettepe University, Institute of Informatics, Computer Graphics Department
+
+* __Generating Avoidance Motions with Machine Learning__
+İsmail Abdullah Özoğur, October 2019, Hacettepe University, Institute of Informatics, Computer Graphics Department
 
